@@ -1,0 +1,9 @@
+.SweetCookieStyle {position: fixed; left:0;z-index: 9999;background-color: rgba(96, 96, 96, 0.51);width: 100%;height: 36px;bottom: 0%;top:auto; line-height:24px; color:#FFFFFF;text-align:center; padding:4px 0;}
+#SweetCookie p {margin:5px; padding:0;}
+#SweetCookie a {color:#ffffff; display:inline-block; border-radius:3px; text-decoration:none; padding:0 6px; margin-left:8px;}
+#SweetCookie .cb-enable {background:#636363;}
+#SweetCookie .cb-enable:hover {background:#8F8F8F;}
+#SweetCookie .cb-disable {background:#636363;}
+#SweetCookie .cb-disable:hover {background:#8F8F8F;}
+#SweetCookie .cb-policy {background:#636363;}
+#SweetCookie .cb-policy:hover {background:#8F8F8F;}
